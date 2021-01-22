@@ -11,7 +11,7 @@ I am a college student from India who is doing B.Tech in Information Technology 
 
 ### Languages and Tools
 
-<img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/css3.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg"> <img height="32" width="32" style="color:#f05032" src="https://simpleicons.org/icons/git.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/github.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/powershell.svg">
+<img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg"/> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/css3.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg"> <img height="32" width="32" style="color:#f05032" src="https://simpleicons.org/icons/git.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/github.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/powershell.svg">
 
 - 🔭 I’m currently working on my website 
 - 🌱 I’m currently learning React 
