@@ -1,10 +1,11 @@
-### Hi there 👋, I am Jeffrey Rujen
-#### Student | FrontEnd Developer
 ![Student | FrontEnd Developer](https://pbs.twimg.com/profile_banners/4784139463/1611301519/1080x360)
 
-I am Jeffrey Rujen from India and I am a college student who is doing B.Tech in Information Technology from Amity University, Noida. I enjoy learning new concepts, frameworks and languages like Progressive Web Apps, Cross Platform Development, React and React Native. Currently I am working on my frontend skills, aspiring to become a full stack developer. JavaScript and Python are the languages I work with the most.
+# Hi there 👋, I am Jeffrey Rujen
+## Student | FrontEnd Developer
 
-Skills: JavaScript, HTML, CSS, Python
+I am a college student from India who is doing B.Tech in Information Technology from Amity University, Noida. I enjoy learning new concepts, frameworks and languages like Progressive Web Apps, Cross Platform Development, React and React Native. Currently I am working on my frontend skills, aspiring to become a full stack developer. JavaScript and Python are the languages I work with the most.
+
+### Skills: JavaScript, HTML, CSS, Python
 
 - 🔭 I’m currently working on my website 
 - 🌱 I’m currently learning React 
