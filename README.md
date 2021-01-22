@@ -5,16 +5,19 @@
 
 I am a college student from India who is doing B.Tech in Information Technology from Amity University, Noida. I enjoy learning new concepts, frameworks and languages like Progressive Web Apps, Cross Platform Development, React and React Native. Currently I am working on my frontend skills, aspiring to become a full stack developer. JavaScript and Python are the languages I work with the most.
 
-### Skills: JavaScript, HTML, CSS, Python
+### Connect with me
+
+[<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" >](https://www.linkedin.com/in/jeffreyrujen/) [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" >](https://twitter.com/jeffreyrujen)
+
+### Languages and Tools
+
+<img height="32" width="32" src="https://simpleicons.org/icons/javascript.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/html5.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/css3.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/python.svg"> <img height="32" width="32" style="color:#f05032" src="https://simpleicons.org/icons/git.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/github.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/visualstudiocode.svg"> <img height="32" width="32" src="https://simpleicons.org/icons/powershell.svg">
 
 - 🔭 I’m currently working on my website 
 - 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on FrontEnd projects 
 - 🤔 I’m looking for help with BackEnd 
 - 💬 Ask me about FrontEnd development 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jeffreyrujenr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jeffreyrujen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jeffreyrujen)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
