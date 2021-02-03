@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Jeffrey rujen</h1>
 <h3 align="center">Javascript-Python developer in progress...</h3>
-<h3 align="center">I am a college student from India, pursuing B.Tech in Information Technology. I enjoy learning new concepts, frameworks and languages like Progressive Web Apps, Cross Platform Development, React and React Native. Currently I am working on my frontend skills, aspiring to become a full stack developer. JavaScript and Python are the languages I work with the most.
+<h3 align="center">I am a college student from India, pursuing B.Tech in Information Technology. I enjoy learning new concepts, frameworks and languages like Progressive Web Apps, Cross Platform Development, React and React Native. Currently I am working on my frontend skills, aspiring to become a full stack developer. JavaScript and Python are the languages I work with the most.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreyrujenr&label=Profile%20views&color=0e75b6&style=flat" alt="jeffreyrujenr" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jeffreyrujen" target="blank"><img src="https://img.shields.io/twitter/follow/jeffreyrujen?logo=twitter&style=for-the-badge" alt="jeffreyrujen" /></a> </p>
 
-🔭 I’m currently working on **my website**<br>
-🌱 I’m currently learning **NextJS**<br>
-👯 I’m looking to collaborate on **web dev projects**<br>
-🤝 I’m looking for help with **backend technologies**<br>
-👨‍💻 All of my projects are available at [https://www.jeffreyrujen.me/](https://www.jeffreyrujen.me/)<br>
-💬 Ask me about **JavaScript, Python, HTML, CSS**<br>
-📫 How to reach me **rujendev@outlook.com**<br>
-⚡ Fun fact **I don't like Java**
+<ul>
+  <li>🔭 I’m currently working on **my website**</li>
+  <li>🌱 I’m currently learning **NextJS**</li>
+  <li>👯 I’m looking to collaborate on **web dev projects**</li>
+  <li>🤝 I’m looking for help with **backend technologies**</li>
+  <li>👨‍💻 All of my projects are available at [https://www.jeffreyrujen.me/](https://www.jeffreyrujen.me/)</li>
+  <li>💬 Ask me about **JavaScript, Python, HTML, CSS**</li>
+  <li>📫 How to reach me **rujendev@outlook.com**</li>
+  <li>⚡ Fun fact **I don't like Java**</li>
+</ul>  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
