@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/jeffreyrujen" target="blank"><img src="https://img.shields.io/twitter/follow/jeffreyrujen?logo=twitter&style=for-the-badge" alt="jeffreyrujen" /></a> </p>
 
-🔭 I’m currently working on **my website**
-🌱 I’m currently learning **NextJS**
-👯 I’m looking to collaborate on **web dev projects**
-🤝 I’m looking for help with **backend technologies**
-👨‍💻 All of my projects are available at [https://www.jeffreyrujen.me/](https://www.jeffreyrujen.me/)
-💬 Ask me about **JavaScript, Python, HTML, CSS**
-📫 How to reach me **rujendev@outlook.com**
+🔭 I’m currently working on **my website**<br>
+🌱 I’m currently learning **NextJS**<br>
+👯 I’m looking to collaborate on **web dev projects**<br>
+🤝 I’m looking for help with **backend technologies**<br>
+👨‍💻 All of my projects are available at [https://www.jeffreyrujen.me/](https://www.jeffreyrujen.me/)<br>
+💬 Ask me about **JavaScript, Python, HTML, CSS**<br>
+📫 How to reach me **rujendev@outlook.com**<br>
 ⚡ Fun fact **I don't like Java**
 
 <h3 align="left">Connect with me:</h3>
