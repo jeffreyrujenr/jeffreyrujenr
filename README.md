@@ -7,8 +7,8 @@
 <p align="left"> <a href="https://twitter.com/jeffreyrujen" target="blank"><img src="https://img.shields.io/twitter/follow/jeffreyrujen?logo=twitter&style=for-the-badge" alt="jeffreyrujen" /></a> </p>
 
 <ul>
-  <li>🔭 I’m currently working on **my website**</li>
-  <li>🌱 I’m currently learning **NextJS**</li>
+  <li>🔭 I’m currently working on <h4>my website</h4></li>
+  <li>🌱 I’m currently learning <h4>NextJS</h4></li>
   <li>👯 I’m looking to collaborate on **web dev projects**</li>
   <li>🤝 I’m looking for help with **backend technologies**</li>
   <li>👨‍💻 All of my projects are available at [https://www.jeffreyrujen.me/](https://www.jeffreyrujen.me/)</li>
@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jeffreyrujen" target="blank" color="#0000ff"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeffreyrujen" height="30" width="40"/></a>
+<a href="https://twitter.com/jeffreyrujen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeffreyrujen" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/jeffreyrujen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeffreyrujen" height="30" width="40" /></a>
 <a href="https://fb.com/jeffreyrujen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jeffreyrujen" height="30" width="40" /></a>
 <a href="https://instagram.com/jeffreyrujen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jeffreyrujen" height="30" width="40" /></a>
