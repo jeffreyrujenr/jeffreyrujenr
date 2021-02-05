@@ -1,6 +1,5 @@
-## Hi there 👋, I am Jeffrey Rujen
-### Javascript-Python developer in progress...
-![Javascript-Python developer in progress...](https://twitter.com/jeffreyrujen/header_photo)
+# Hi there 👋, I am Jeffrey Rujen
+## Javascript-Python developer in progress...
 
 I am a college student from India, pursuing B.Tech in Information Technology. I enjoy learning new concepts, frameworks and languages like Progressive Web Apps, Cross Platform Development, React and React Native. Currently I am working on my frontend skills, aspiring to become a full stack developer. JavaScript and Python are the languages I work with the most.
 
