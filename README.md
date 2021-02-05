@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jeffreyrujen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeffreyrujen" height="30" width="40" /></a>
+<a href="https://twitter.com/jeffreyrujen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jeffreyrujen" height="30" width="40" color="#0000ff"/></a>
 <a href="https://linkedin.com/in/jeffreyrujen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeffreyrujen" height="30" width="40" /></a>
 <a href="https://fb.com/jeffreyrujen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jeffreyrujen" height="30" width="40" /></a>
 <a href="https://instagram.com/jeffreyrujen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jeffreyrujen" height="30" width="40" /></a>
