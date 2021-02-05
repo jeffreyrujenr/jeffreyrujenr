@@ -10,8 +10,6 @@ I am a college student from India, pursuing B.Tech in Information Technology. I 
 - 💬 Ask me about Vanilla JS, HTML, CSS 
 - 📫 How to reach me: RujenDev@outlook.com 
 
-![Profile views](https://gpvc.arturio.dev/jeffreyrujenr)
-
 ### Language and Tools:
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
