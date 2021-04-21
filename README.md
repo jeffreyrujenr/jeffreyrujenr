@@ -8,7 +8,7 @@ I am a college student from India, pursuing B.Tech in Information Technology. I 
 - 👯 I’m looking to collaborate on frontend projects 
 - 🤔 I’m looking for help with backend topics 
 - 💬 Ask me about Vanilla JS, HTML, CSS 
-- 📫 How to reach me: RujenDev@outlook.com 
+- 📫 How to reach me: rujendev@outlook.com 
 
 ### Languages and Tools:
 <p align="left">
