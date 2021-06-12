@@ -1,13 +1,13 @@
 # Hi there 👋, I am Jeffrey Rujen
 ## Javascript-Python developer in progress...
 
-I am a college student from India, pursuing B.Tech in Information Technology. I enjoy learning new concepts, frameworks and languages like Progressive Web Apps, Cross Platform Development, React and React Native. Currently I am working on my frontend skills, aspiring to become a full stack developer. JavaScript and Python are the languages I work with the most.
+I am a college student from India, pursuing B.Tech in Information Technology. I enjoy learning new concepts, frameworks and languages like Progressive Web Apps, Cross Platform Development, React and React Native. Currently I am working on JAM stack, aspiring to become a full stack developer. JavaScript and Python are the languages I work with the most.
 
 - 🔭 I’m currently working on my full stack skills 
-- 🌱 I’m currently learning NextJS 
-- 👯 I’m looking to collaborate on frontend projects 
-- 🤔 I’m looking for help with backend topics 
-- 💬 Ask me about Vanilla JS, HTML, CSS 
+- 🌱 I’m currently learning Next.js 
+- 👯 I’m looking to collaborate on full stack projects 
+- 🤔 I’m looking for help with backend concepts
+- 💬 Ask me about JavaScript, HTML, CSS, React.js, Next.js, React Native, Firebase 
 - 📫 How to reach me: rujendev@outlook.com 
 
 ### Languages and Tools:
